@@ -126,8 +126,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### Notes
-
-Ensure screenshots are added to the appropriate placeholder paths (`path-to-bar-chart-screenshot` and `path-to-data-table-screenshot`) before submission. Include a link to your repository in the `README.md`.
-
-[Documentation](https://mantine.dev/guides/vite/)
