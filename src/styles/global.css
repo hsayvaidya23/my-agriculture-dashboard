@@ -1,0 +1,24 @@
+body {
+    background-color: var(--mantine-color-gray-0); 
+}
+
+table {
+    width: 100%;
+    max-width: 30vw; 
+    max-height: 100vh; 
+    border-collapse: collapse;
+    border: 1px solid var(--mantine-color-gray-4); 
+}
+
+th {
+    background-color: var(--mantine-color-blue-6); 
+    color: var(--mantine-color-white); 
+    padding: 10px;
+    text-align: left;
+    border: 2px solid var(--mantine-color-black); 
+}
+
+td {
+    padding: 10px;
+    border: 2px solid var(--mantine-color-black);
+}
